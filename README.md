@@ -1,4 +1,4 @@
-#Project Description:
+Project Description:
 ---
 This is my solution of the project from DataCamp.
 
