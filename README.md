@@ -1,6 +1,6 @@
 Project Description:
 ---
-This is my solution of the project from DataCamp.
+This is my solution to the project from DataCamp.
 
 Profile: https://www.datacamp.com/profile/veeralakrishna
 
