@@ -8,7 +8,7 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 
 | Project | Description |
 | --- | --- |
-|[ `A Network analysis of Game of Thrones` ](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/A%20Network%20analysis%20of%20Game%20of%20Thrones)| Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
+|[ `A Network analysis of Game of Thrones` ](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/A%20Network%20analysis%20of%20Game%20of%20Thrones)| [Analyze the network of characters in Game of Thrones and how it changes over the course of the books.](https://www.datacamp.com/projects/76) |
 | `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. In this project, we will train a convolutional neural network to classify images of ASL letters.|
