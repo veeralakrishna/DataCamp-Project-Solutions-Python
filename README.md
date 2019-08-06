@@ -11,7 +11,7 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 |[ `A Network analysis of Game of Thrones` ](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/A%20Network%20analysis%20of%20Game%20of%20Thrones)| Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
 | `A New Era of Data Analysis in Baseball` | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
-| `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. In this project, we will train a convolutional neural network to classify images of ASL letters. After loading, examining, and preprocessing the data, you will train the network and test its performance.|
+| `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. In this project, we will train a convolutional neural network to classify images of ASL letters.|
 | `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species." |
 | `Classify Song Genres from Audio Data` | Rock or rap? Apply machine learning methods in Python to classify songs into genres. |
 | `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
