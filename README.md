@@ -9,7 +9,8 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 | Project | Description |
 | --- | --- |
 |[ `A Network analysis of Game of Thrones` ](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/A%20Network%20analysis%20of%20Game%20of%20Thrones)| [Analyze the network of characters in Game of Thrones and how it changes over the course of the books.](https://www.datacamp.com/projects/76) |
-| [`A New Era of Data Analysis in Baseball`](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball) | ![img](https://static.datacamp.com/static/d005b1b9809dcc1cfcd0179548b5faa2/47ffe/project_image.png) [Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. ](https://www.datacamp.com/projects/250)|
+| [`A New Era of Data Analysis in Baseball`](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/A%20New%20Era%20of%20Data%20Analysis%20in%20Baseball) | <img src="https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_RGB-d196011f63ebda76dc5c9772425cf9541b8639af842d5e5476ef10f2460ed1e4.png" width="45">
+</p>[Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. ](https://www.datacamp.com/projects/250)|
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | `ASL Recognition with Deep Learning` | Build a convolutional neural network to classify images of letters from American Sign Language. In this project, we will train a convolutional neural network to classify images of ASL letters.|
 | `Book Recommendations from Charles Darwin` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species." |
