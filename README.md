@@ -13,6 +13,7 @@ Designed by expert instructors, DataCamp Projects are an important step in your 
 
 My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakrishna).
 
+
 | Project | Description |
 | --- | --- |
 |[ `A Network analysis of Game of Thrones` ](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/A%20Network%20analysis%20of%20Game%20of%20Thrones)| [Analyze the network of characters in Game of Thrones and how it changes over the course of the books.](https://www.datacamp.com/projects/76) |
