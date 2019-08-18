@@ -25,7 +25,7 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 |[ `Classify Song Genres from Audio Data`](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data) | [Rock or rap? Apply machine learning methods in Python to classify songs into genres. ](https://www.datacamp.com/projects/449)|
 | [`Disney Movies and Box Office Success`](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/Disney%20Movies%20and%20Box%20Office%20Success) | |
 |[ `Do Left-handed People Really Die Young?`](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/Do%20Left-handed%20People%20Really%20Die%20Young_) | [Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties.](https://www.datacamp.com/projects/479) |
-| `Dr. Semmelweis and the discovery of handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
+|[ `Dr. Semmelweis and the discovery of handwashing`](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
 | `Exploring the Bitcoin cryptocurrency market` | You will explore the market capitalization of Bitcoin and other cryptocurrencies. |
 | `Exploring the evolution of Linux` | Find out about the development of the Linux operating system by exploring its Git repository history. |
