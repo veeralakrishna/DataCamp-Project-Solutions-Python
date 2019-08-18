@@ -23,6 +23,7 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 |[`Bad passwords and the NIST guidelines`](https://www.datacamp.com/projects/141) | [Check what passwords fail to conform to the National Institute of Standards and Technology password guidelines.](https://www.datacamp.com/projects/141) |
 | [`Book Recommendations from Charles Darwin` ](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/Book%20Recommendations%20from%20Charles%20Darwin)| [Build a book recommendation system using NLP and the text of books like "On the Origin of Species."](https://www.datacamp.com/projects/607) |
 |[ `Classify Song Genres from Audio Data`](https://github.com/veeralakrishna/DataCamp-Portfolio-Project-Solutions--Python/tree/master/Classify%20Song%20Genres%20from%20Audio%20Data) | [Rock or rap? Apply machine learning methods in Python to classify songs into genres. ](https://www.datacamp.com/projects/449)|
+| [`Disney Movies and Box Office Success`] | |
 | `Do Left-handed People Really Die Young?` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties. |
 | `Dr. Semmelweis and the discovery of handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Exploring 67 years of LEGO` | In this project we will explore a database of every LEGO set ever built. |
