@@ -47,3 +47,4 @@ My Solutions to [Datacamp Projects](https://www.datacamp.com/profile/veeralakris
 | `Which Debts Are Worth the Bank's Effort?` | Play bank data scientist and use regression discontinuity to see which debts are worth collecting. |
 | `Who Is Drunk and When in Ames, Iowa?` | Flex your pandas muscles on breath alcohol test data from Ames, Iowa, USA. |
 | `Word Frequency in Moby Dick` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick. |
+| `The Android App Market on Google Playstore` | Analyse the dataset on user reviews of different apps on google playstore. |
