@@ -11,4 +11,4 @@ klib==0.3.1                 # Data cleaning and visualization
 # Plotting and visualization
 matplotlib==3.4.3           # Creating plots and graphs
 
-Any IDE for development ( eg: VS Code , Jupyter Notebook)
+# Any IDE for development ( eg: VS Code , Jupyter Notebook)
