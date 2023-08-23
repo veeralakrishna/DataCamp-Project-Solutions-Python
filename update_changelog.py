@@ -41,3 +41,4 @@ def update_changelog(commit_sha):
 
 if __name__ == "__main__":
     update_changelog(commit_sha)
+    print("Success!")
