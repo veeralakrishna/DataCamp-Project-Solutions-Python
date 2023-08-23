@@ -7,7 +7,7 @@ from dateutil.parser import parse
 commit_sha = sys.argv[1]
 github_token = sys.argv[2]
 
-g = Github(ACTION_TOKEN)
+g = Github(github_token)
 repo = g.get_repo("veeralakrishna/DataCamp-Project-Solutions-Python")
 
 def get_associated_issues_prs(commit_sha):
