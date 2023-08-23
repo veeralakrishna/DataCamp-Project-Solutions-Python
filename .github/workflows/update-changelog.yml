@@ -1,0 +1,39 @@
+name: Update Changelog
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+  push:
+    branches:
+      - master
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: |
+          pip install PyGithub
+          pip install python-dateutil
+
+      - name: Run script
+        run: python update_changelog.py ${{ github.sha }} ${{ github.token }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add changelog.md
+          git commit -m "Update changelog"
+          git push
