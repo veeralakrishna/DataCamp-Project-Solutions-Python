@@ -1,0 +1,14 @@
+python==3.9.7
+
+# Libraries for data analysis and visualization
+pandas==1.3.3               # Data manipulation and analysis
+seaborn==0.11.2             # Data visualization
+numpy==1.21.2               # Numerical computations
+
+# Data cleaning and preprocessing
+klib==0.3.1                 # Data cleaning and visualization
+
+# Plotting and visualization
+matplotlib==3.4.3           # Creating plots and graphs
+
+# Any IDE for development ( eg: VS Code , Jupyter Notebook)
