@@ -26,6 +26,11 @@ jobs:
         run: |
           pip install PyGithub
           pip install python-dateutil
+          
+      - name: Debug
+        run: |
+          echo "GitHub Token: ${{ secrets.ACTION_TOKEN }}"
+          echo "Commit SHA: ${{ github.sha }}"
 
       - name: Run script
         run: python update_changelog.py ${{ github.sha }} ${{ secrets.ACTION_TOKEN }}
