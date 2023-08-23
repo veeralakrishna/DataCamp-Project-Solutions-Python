@@ -28,7 +28,7 @@ jobs:
           pip install python-dateutil
 
       - name: Run script
-        run: python update_changelog.py ${{ secrets.ACTION_TOKEN.sha }} ${{ secrets.ACTION_TOKEN.token }}
+        run: python update_changelog.py ${{ github.sha }} ${{ secrets.ACTION_TOKEN }}
 
       - name: Commit changes
         run: |
