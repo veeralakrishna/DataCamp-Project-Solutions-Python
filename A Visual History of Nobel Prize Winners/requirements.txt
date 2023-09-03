@@ -3,7 +3,7 @@ python==3.9.7
 # Libraries for data analysis and visualization
 pandas==1.3.3               # Data manipulation and analysis
 seaborn==0.11.2             # Data visualization
-numpy==1.21.2               # Numerical computations
+numpy==1.22.0               # Numerical computations
 
 # Data cleaning and preprocessing
 klib==0.3.1                 # Data cleaning and visualization
