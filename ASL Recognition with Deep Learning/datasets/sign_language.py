@@ -1,6 +1,6 @@
 import random
 import numpy as np
-from keras.utils import np_utils, to_categorical
+from keras.utils import to_categorical
 from keras.preprocessing import image
 from os import listdir
 from os.path import isdir, join
@@ -31,7 +31,7 @@ def load_data(container_path='datasets', folders=['A', 'B', 'C'],
     # Get the images
     x = paths_to_tensor(filenames).astype('float32')/255
     # Store the one-hot targets
-    y = np.array(labels)
+    y = to_categorical(np.array(labels))  # Use to_categorical directly
 
     x_train = np.array(x[:int(len(x) * (1 - test_split))])
     y_train = np.array(y[:int(len(x) * (1 - test_split))])
@@ -52,9 +52,3 @@ def path_to_tensor(img_path, size):
 def paths_to_tensor(img_paths, size=50):
     list_of_tensors = [path_to_tensor(img_path, size) for img_path in img_paths]
     return np.vstack(list_of_tensors)
-
-
-"""
-    num_types = len(data['target_names'])
-    targets = np_utils.to_categorical(np.array(data['target']), num_types)
-"""
